@@ -13,9 +13,9 @@ Before you can run this program, ensure that the following software is installed
 3. (NOTE) Many functions either don't work or work partially. Continue at your own risk. These are going to be listed below with pictures.
 
 ## ERRORS
-![Error1](Error Pics/error1.png)
-![Error2](Error Pics/error2.png)
-![Error3](Error Pics/error3.png)
+[Error1](Error Pics/error1.png)
+[Error2](Error Pics/error2.png)
+[Error3](Error Pics/error3.png)
 
 ## File Summaries
 Below is the list of each program file and a brief explanation of its role:
