@@ -1,0 +1,4 @@
+C:\Users\Brennan\source\repos\EOTD\XLevelEditor\obj\Debug\XLevelEditor.csproj.AssemblyReference.cache
+C:\Users\Brennan\source\repos\EOTD\XLevelEditor\obj\Debug\XLevelEditor.Properties.Resources.resources
+C:\Users\Brennan\source\repos\EOTD\XLevelEditor\obj\Debug\XLevelEditor.csproj.GenerateResource.cache
+C:\Users\Brennan\source\repos\EOTD\XLevelEditor\obj\Debug\XLevelEditor.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\Brennan\source\repos\EOTD\MGRpgLibrary\obj\x86\Debug\MGRpgLibrary.csproj.AssemblyReference.cache
+C:\Users\Brennan\source\repos\EOTD\MGRpgLibrary\obj\x86\Debug\MGRpgLibrary.csproj.CoreCompileInputs.cache

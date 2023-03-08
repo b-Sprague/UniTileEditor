@@ -1,0 +1,6 @@
+C:\Users\Brennan\source\repos\EOTD\RpgLibrary\bin\Debug\RpgLibrary.dll
+C:\Users\Brennan\source\repos\EOTD\RpgLibrary\bin\Debug\RpgLibrary.pdb
+C:\Users\Brennan\source\repos\EOTD\RpgLibrary\obj\Debug\RpgLibrary.csproj.AssemblyReference.cache
+C:\Users\Brennan\source\repos\EOTD\RpgLibrary\obj\Debug\RpgLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Brennan\source\repos\EOTD\RpgLibrary\obj\Debug\RpgLibrary.dll
+C:\Users\Brennan\source\repos\EOTD\RpgLibrary\obj\Debug\RpgLibrary.pdb

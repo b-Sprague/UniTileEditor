@@ -1,0 +1,2 @@
+C:\Users\Brennan\source\repos\EOTD\EOTD\obj\Debug\EOTD.csproj.AssemblyReference.cache
+C:\Users\Brennan\source\repos\EOTD\EOTD\obj\Debug\EOTD.csproj.CoreCompileInputs.cache
